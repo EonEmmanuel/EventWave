@@ -1,7 +1,7 @@
 # A Portfolio Project of ALX Software Engineering Program
 
 ## EventWave Web Application
-EventWave is portfolio project that marks the final stage of the ALX 12 month Software Engineering program.Its a web application that is used to manage various events.It is built using MERN Stack i.e Mongo, Express, React and Node Js.
+EventWave is a portfolio project that marks the final stage of the ALX 12-month Software Engineering program.Its a web application that is used to manage various events.It is built using MERN Stack i.e Mongo, Express, React and Node Js.
 
 ## Getting Started with Create React App
 
@@ -73,3 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Contributors
+Eon Emmanuel Tresor [Github](https://github.com/EonEmmanuel), [X](https://twitter.com/Eon_Emmanu), [LinkedIn](https://www.linkedin.com/in/eon-emmanuel-864b06264)
+
+Egunsola Saheed [Github](https://github.com/abu-baasit),[X](https://www.x.com/saholadimeji), [LinkedIn](https://www.linkedin.com/in/saheed-egunsola-442a4279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+Kuzue Chinonso [Github](https://github.com/Chukwunonso10), [X](https://x.com/kuzue_chinonso), [LinkedIn](https://www.linkedin.com/in/kuzue-chukwunonso-0b3170165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
