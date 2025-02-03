@@ -1,4 +1,7 @@
+# A Portfolio Project of ALX Software Engineering Program
 
+## EventWave Web Application
+EventWave is portfolio project that marks the final stage of the ALX 12 month Software Engineering program.Its a web application that is used to manage various events.It is built using MERN Stack i.e Mongo, Express, React and Node Js.
 
 ## Getting Started with Create React App
 
